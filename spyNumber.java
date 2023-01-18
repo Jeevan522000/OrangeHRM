@@ -7,6 +7,7 @@ public class spyNumber
 
 	public static void main(String[] args) 
 	{
+		System.out.println("Spy Number Program");
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 	      System.out.println("Enter a Number");
