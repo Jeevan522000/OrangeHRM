@@ -1,6 +1,6 @@
 package com.java.practice;
 
-import java.util.Scanner;
+import java.util.Scaner;
 
 public class spyNumber 
 {
